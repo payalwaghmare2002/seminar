@@ -4,7 +4,7 @@
 
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 
-<p style="background-color:Tomato;">this is a line2</p>
+<p style="background-color:Tomato;">this is a line1</p>
 
 </body>
 </html>
